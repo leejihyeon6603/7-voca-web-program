@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "word": "rent",
+    "meaning": "빌리다",
+    "example": "We decided to rent bicycles instead of taking a taxi to explore the old town.",
+    "translation": "우리는 구시가지를 둘러보기 위해 택시를 타는 대신 자전거를 빌리기로 했다.",
+    "wrongTranslation": "우리는 구시가지를 둘러보기 위해 택시를 타는 대신 자전거를 구입하기로 했다.",
+    "pos": "v.",
+    "derived": "rental (n.)",
+    "wrongWords": [
+      "rend",
+      "rest"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "우리는 구시가지를 둘러보기 위해 택시를 탄 다음 자전거를 빌리기로 했다."
+  },
+  {
+    "id": 2,
+    "word": "develop",
+    "meaning": "개발하다, 발전시키다",
+    "example": "The researchers developed a new device that can detect dangerous gases.",
+    "translation": "연구원들은 위험한 가스를 감지할 수 있는 새로운 장치를 개발했다.",
+    "wrongTranslation": "연구원들은 위험한 가스를 배출할 수 있는 새로운 장치를 개발했다.",
+    "pos": "v.",
+    "derived": "development (n.)",
+    "wrongWords": [
+      "devolve",
+      "envelop"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "연구원들은 유용한 가스를 감지할 수 있는 새로운 장치를 개발했다."
+  },
+  {
+    "id": 3,
+    "word": "upload",
+    "meaning": "업로드하다",
+    "example": "Before uploading the report, make sure that no personal information is included.",
+    "translation": "보고서를 업로드하기 전에 개인 정보가 포함되지 않았는지 확인해라.",
+    "wrongTranslation": "보고서를 업로드한 다음에 개인 정보가 포함되어 있는지 확인해라.",
+    "pos": "v.",
+    "derived": "upload (n.)",
+    "wrongWords": [
+      "unload",
+      "uphold"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "보고서를 업로드하기 전에 개인 정보가 포함되어 있는지 확인해라."
+  },
+  {
+    "id": 4,
+    "word": "method",
+    "meaning": "방법",
+    "example": "The scientist explained a simple method for reducing plastic waste.",
+    "translation": "그 과학자는 플라스틱 쓰레기를 줄이는 간단한 방법을 설명했다.",
+    "wrongTranslation": "그 과학자는 플라스틱 쓰레기를 늘리는 간단한 방법을 설명했다.",
+    "pos": "n.",
+    "derived": "methodical (adj.)",
+    "wrongWords": [
+      "mettle",
+      "mentor"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "그 과학자는 음식물 쓰레기를 줄이는 간단한 방법을 설명했다."
+  },
+  {
+    "id": 5,
+    "word": "purchase",
+    "meaning": "구매하다, 구매",
+    "example": "Customers can purchase tickets online without waiting in a long line.",
+    "translation": "고객들은 긴 줄을 기다리지 않고 온라인으로 표를 구매할 수 있다.",
+    "wrongTranslation": "고객들은 긴 줄을 기다려야만 온라인으로 표를 구매할 수 있다.",
+    "pos": "v./n.",
+    "derived": "purchaser (n.)",
+    "wrongWords": [
+      "purchaser",
+      "purpose"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "고객들은 긴 줄을 기다리지 않고 현장에서 표를 구매할 수 있다."
+  },
+  {
+    "id": 6,
+    "word": "recommend",
+    "meaning": "추천하다",
+    "example": "Our teacher recommended a documentary that changed the way I think about technology.",
+    "translation": "선생님은 기술에 대한 내 생각을 바꿔 놓은 다큐멘터리를 추천하셨다.",
+    "wrongTranslation": "선생님은 기술에 대한 내 생각을 확인해 준 다큐멘터리를 추천하셨다.",
+    "pos": "v.",
+    "derived": "recommendation (n.)",
+    "wrongWords": [
+      "recommence",
+      "recompense"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "선생님은 기술에 대한 내 생각을 바꿔 놓은 다큐멘터리를 비판하셨다."
+  },
+  {
+    "id": 7,
+    "word": "trace",
+    "meaning": "흔적, 추적하다",
+    "example": "Investigators found traces of the missing vehicle near the river.",
+    "translation": "수사관들은 강 근처에서 실종된 차량의 흔적을 발견했다.",
+    "wrongTranslation": "수사관들은 강 근처에서 실종된 차량의 소유자를 발견했다.",
+    "pos": "n./v.",
+    "derived": "traceable (adj.)",
+    "wrongWords": [
+      "track",
+      "trance"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "수사관들은 산 근처에서 실종된 차량의 흔적을 발견했다."
+  },
+  {
+    "id": 8,
+    "word": "analyze",
+    "meaning": "분석하다",
+    "example": "Students analyzed the survey results to understand changes in their classmates’ habits.",
+    "translation": "학생들은 반 친구들의 습관 변화를 이해하기 위해 설문 결과를 분석했다.",
+    "wrongTranslation": "학생들은 반 친구들의 습관을 바꾸기 위해 설문 결과를 분석했다.",
+    "pos": "v.",
+    "derived": "analysis (n.)",
+    "wrongWords": [
+      "analyse",
+      "analyst"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "학생들은 반 친구들의 습관 변화를 이해하기 위해 설문 결과를 공개했다."
+  },
+  {
+    "id": 9,
+    "word": "predict",
+    "meaning": "예측하다",
+    "example": "It is difficult to predict how rapidly artificial intelligence will change our jobs.",
+    "translation": "인공지능이 우리의 직업을 얼마나 빠르게 바꿀지 예측하기는 어렵다.",
+    "wrongTranslation": "인공지능이 우리의 직업을 얼마나 느리게 바꿀지 예측하기는 어렵다.",
+    "pos": "v.",
+    "derived": "prediction (n.)",
+    "wrongWords": [
+      "pretext",
+      "predate"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "인공지능이 우리의 직업을 얼마나 빠르게 바꿀지 예측하기는 쉽다."
+  },
+  {
+    "id": 10,
+    "word": "amount",
+    "meaning": "양, 액수",
+    "example": "A surprisingly large amount of energy is wasted when devices remain plugged in.",
+    "translation": "기기가 계속 꽂혀 있으면 놀랄 만큼 많은 양의 에너지가 낭비된다.",
+    "wrongTranslation": "기기가 계속 꽂혀 있으면 놀랄 만큼 적은 양의 에너지가 낭비된다.",
+    "pos": "n.",
+    "derived": "—",
+    "wrongWords": [
+      "account",
+      "amend"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "기기가 완전히 꺼져 있으면 놀랄 만큼 많은 양의 에너지가 낭비된다."
+  },
+  {
+    "id": 11,
+    "word": "communication",
+    "meaning": "의사소통, 통신",
+    "example": "Clear communication is essential when team members work in different countries.",
+    "translation": "팀원들이 서로 다른 나라에서 일할 때 명확한 의사소통은 필수적이다.",
+    "wrongTranslation": "팀원들이 같은 나라에서 일할 때 명확한 의사소통은 불필요하다.",
+    "pos": "n.",
+    "derived": "communicate (v.)",
+    "wrongWords": [
+      "commutation",
+      "communion"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "팀원들이 서로 같은 나라에서 일할 때 명확한 의사소통은 필수적이다."
+  },
+  {
+    "id": 12,
+    "word": "flu",
+    "meaning": "독감",
+    "example": "Several students stayed home because the flu was spreading through the school.",
+    "translation": "독감이 학교에 퍼지고 있어서 몇몇 학생들이 집에 머물렀다.",
+    "wrongTranslation": "독감이 학교에서 사라지고 있어서 몇몇 학생들이 집에 머물렀다.",
+    "pos": "n.",
+    "derived": "influenza (n.)",
+    "wrongWords": [
+      "fly",
+      "flue"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "독감이 학교에 퍼지고 있어서 몇몇 학생들이 학교에 모였다."
+  },
+  {
+    "id": 13,
+    "word": "influence",
+    "meaning": "영향을 미치다, 영향",
+    "example": "Social media can influence the decisions people make about what to buy.",
+    "translation": "소셜 미디어는 사람들이 무엇을 살지 결정하는 데 영향을 미칠 수 있다.",
+    "wrongTranslation": "소셜 미디어는 사람들이 무엇을 살지 결정하는 데 영향을 미치지 않는다.",
+    "pos": "v./n.",
+    "derived": "influential (adj.)",
+    "wrongWords": [
+      "influenza",
+      "influx"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "소셜 미디어는 사람들이 어디에 살지 결정하는 데 영향을 미칠 수 있다."
+  },
+  {
+    "id": 14,
+    "word": "avoid",
+    "meaning": "피하다",
+    "example": "To avoid losing important files, you should regularly back up your computer.",
+    "translation": "중요한 파일을 잃지 않으려면 컴퓨터를 정기적으로 백업해야 한다.",
+    "wrongTranslation": "중요한 파일을 잃지 않으려면 컴퓨터를 정기적으로 끄지 않아야 한다.",
+    "pos": "v.",
+    "derived": "avoidable (adj.)",
+    "wrongWords": [
+      "avow",
+      "await"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "중요한 파일을 잃지 않으려면 컴퓨터를 정기적으로 교체해야 한다."
+  },
+  {
+    "id": 15,
+    "word": "spread",
+    "meaning": "퍼지다, 퍼뜨리다",
+    "example": "False information can spread quickly when people share posts without checking them.",
+    "translation": "사람들이 게시물을 확인하지 않고 공유하면 잘못된 정보가 빠르게 퍼질 수 있다.",
+    "wrongTranslation": "사람들이 게시물을 확인하고 공유하면 잘못된 정보가 빠르게 퍼질 수 있다.",
+    "pos": "v./n.",
+    "derived": "spread–spread–spread",
+    "wrongWords": [
+      "spray",
+      "spear"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "사람들이 게시물을 확인하지 않고 공유하면 정확한 정보가 빠르게 퍼질 수 있다."
+  },
+  {
+    "id": 16,
+    "word": "symptom",
+    "meaning": "증상",
+    "example": "A persistent cough can be a symptom of several different illnesses.",
+    "translation": "지속적인 기침은 여러 질병의 증상일 수 있다.",
+    "wrongTranslation": "지속적인 기침은 여러 질병의 치료법일 수 있다.",
+    "pos": "n.",
+    "derived": "symptomatic (adj.)",
+    "wrongWords": [
+      "symbol",
+      "system"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "지속적인 기침은 한 가지 질병의 증상일 수 있다."
+  },
+  {
+    "id": 17,
+    "word": "database",
+    "meaning": "데이터베이스",
+    "example": "The hospital stores patient records in a secure database.",
+    "translation": "그 병원은 환자 기록을 안전한 데이터베이스에 보관한다.",
+    "wrongTranslation": "그 병원은 환자 기록을 누구나 접근할 수 있는 데이터베이스에 보관한다.",
+    "pos": "n.",
+    "derived": "—",
+    "wrongWords": [
+      "data bank",
+      "datebook"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "그 병원은 의사 명단을 안전한 데이터베이스에 보관한다."
+  },
+  {
+    "id": 18,
+    "word": "improve",
+    "meaning": "개선하다, 향상시키다",
+    "example": "Regular feedback helped the students improve the quality of their presentations.",
+    "translation": "정기적인 피드백은 학생들이 발표의 질을 향상시키는 데 도움이 되었다.",
+    "wrongTranslation": "정기적인 피드백은 학생들이 발표의 길이를 줄이는 데 도움이 되었다.",
+    "pos": "v.",
+    "derived": "improvement (n.)",
+    "wrongWords": [
+      "approve",
+      "improvise"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "정기적인 피드백은 학생들이 발표의 속도를 향상시키는 데 도움이 되었다."
+  },
+  {
+    "id": 19,
+    "word": "include",
+    "meaning": "포함하다",
+    "example": "The final price does not include the cost of delivering the equipment.",
+    "translation": "최종 가격에는 장비 배송 비용이 포함되지 않는다.",
+    "wrongTranslation": "최종 가격에는 장비 배송 비용이 포함되어 있다.",
+    "pos": "v.",
+    "derived": "inclusion (n.)",
+    "wrongWords": [
+      "exclude",
+      "incline"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "최종 가격에는 장비 설치 비용이 포함되지 않는다."
+  },
+  {
+    "id": 20,
+    "word": "performance",
+    "meaning": "성과, 공연, 수행 능력",
+    "example": "The new software improved the performance of the school’s computers.",
+    "translation": "새 소프트웨어는 학교 컴퓨터의 성능을 향상시켰다.",
+    "wrongTranslation": "새 소프트웨어는 학교 컴퓨터의 가격을 낮추었다.",
+    "pos": "n.",
+    "derived": "perform (v.)",
+    "wrongWords": [
+      "performer",
+      "permanence"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "새 소프트웨어는 학교 컴퓨터의 수명을 향상시켰다."
+  },
+  {
+    "id": 21,
+    "word": "focus on",
+    "meaning": "~에 집중하다",
+    "example": "Instead of memorizing every detail, focus on the main idea of the article.",
+    "translation": "모든 세부 사항을 외우는 대신 글의 중심 생각에 집중해라.",
+    "wrongTranslation": "모든 세부 사항을 외우는 대신 글의 마지막 문장에만 집중해라.",
+    "pos": "phr.",
+    "derived": "focus (n./v.)",
+    "wrongWords": [
+      "focus in",
+      "focus at"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "모든 세부 사항을 외우는 대신 글의 세부 사례에 집중해라."
+  },
+  {
+    "id": 22,
+    "word": "crime",
+    "meaning": "범죄",
+    "example": "The city installed more streetlights in areas where crime had increased.",
+    "translation": "그 도시는 범죄가 증가한 지역에 가로등을 더 설치했다.",
+    "wrongTranslation": "그 도시는 범죄가 감소한 지역에 가로등을 더 설치했다.",
+    "pos": "n.",
+    "derived": "criminal (n./adj.)",
+    "wrongWords": [
+      "crimp",
+      "climb"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "그 도시는 범죄가 증가한 지역에 가로등을 모두 철거했다."
+  },
+  {
+    "id": 23,
+    "word": "identify",
+    "meaning": "확인하다, 식별하다",
+    "example": "The app can identify different kinds of plants from a single photograph.",
+    "translation": "그 앱은 사진 한 장으로 여러 종류의 식물을 식별할 수 있다.",
+    "wrongTranslation": "그 앱은 사진 한 장으로 여러 종류의 식물을 재배할 수 있다.",
+    "pos": "v.",
+    "derived": "identification (n.)",
+    "wrongWords": [
+      "identity",
+      "intensify"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "그 앱은 사진 한 장으로 여러 종류의 식물을 번식시킬 수 있다."
+  },
+  {
+    "id": 24,
+    "word": "industry",
+    "meaning": "산업",
+    "example": "The tourism industry has changed significantly because of online booking services.",
+    "translation": "온라인 예약 서비스 때문에 관광 산업이 크게 변했다.",
+    "wrongTranslation": "온라인 예약 서비스와 관계없이 관광 산업은 거의 변하지 않았다.",
+    "pos": "n.",
+    "derived": "industrial (adj.)",
+    "wrongWords": [
+      "industrious",
+      "instruct"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "온라인 예약 서비스 때문에 관광 산업이 잠시 중단됐다."
+  },
+  {
+    "id": 25,
+    "word": "play a role",
+    "meaning": "역할을 하다",
+    "example": "Parents and teachers play an important role in helping teenagers make decisions.",
+    "translation": "부모와 교사는 청소년이 결정을 내리도록 돕는 데 중요한 역할을 한다.",
+    "wrongTranslation": "부모와 교사는 청소년이 결정을 내리지 못하게 하는 데 중요한 역할을 한다.",
+    "pos": "phr.",
+    "derived": "role (n.)",
+    "wrongWords": [
+      "play a roll",
+      "play a rule"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "부모와 교사는 청소년이 결정을 미루도록 돕는 데 중요한 역할을 한다."
+  },
+  {
+    "id": 26,
+    "word": "be likely to",
+    "meaning": "~할 가능성이 있다",
+    "example": "People who exercise regularly are more likely to sleep well at night.",
+    "translation": "규칙적으로 운동하는 사람들은 밤에 잠을 잘 잘 가능성이 더 높다.",
+    "wrongTranslation": "규칙적으로 운동하는 사람들은 밤에 잠을 잘 못 잘 가능성이 더 높다.",
+    "pos": "phr.",
+    "derived": "likely (adj.)",
+    "wrongWords": [
+      "be liable to",
+      "be lucky to"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "가끔씩 운동하는 사람들은 밤에 잠을 잘 잘 가능성이 더 높다."
+  },
+  {
+    "id": 27,
+    "word": "draw",
+    "meaning": "그리다, 끌어내다",
+    "example": "The researchers drew a surprising conclusion from the experiment.",
+    "translation": "연구원들은 실험에서 놀라운 결론을 도출했다.",
+    "wrongTranslation": "연구원들은 실험에서 놀라운 결론을 부정했다.",
+    "pos": "v.",
+    "derived": "draw–drew–drawn",
+    "wrongWords": [
+      "drew",
+      "drain"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "연구원들은 실험에서 놀라운 가설을 검증했다."
+  },
+  {
+    "id": 28,
+    "word": "meaningful",
+    "meaning": "의미 있는",
+    "example": "Volunteering became a meaningful experience because we could help our neighbors directly.",
+    "translation": "봉사활동은 이웃을 직접 도울 수 있었기 때문에 의미 있는 경험이 되었다.",
+    "wrongTranslation": "봉사활동은 이웃을 직접 만날 수 없었기 때문에 의미 있는 경험이 되었다.",
+    "pos": "adj.",
+    "derived": "meaning (n.)",
+    "wrongWords": [
+      "meaningless",
+      "meanwhile"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "봉사활동은 이웃의 도움을 받을 수 있었기 때문에 의미 있는 경험이 되었다."
+  },
+  {
+    "id": 29,
+    "word": "result",
+    "meaning": "결과",
+    "example": "The unexpected result forced the team to reconsider its original plan.",
+    "translation": "예상치 못한 결과 때문에 팀은 원래 계획을 재검토해야 했다.",
+    "wrongTranslation": "예상치 못한 결과 때문에 팀은 원래 계획을 그대로 유지했다.",
+    "pos": "n./v.",
+    "derived": "result in (phr.)",
+    "wrongWords": [
+      "resort",
+      "resist"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "예상치 못한 결과 때문에 팀은 새로운 계획을 재검토해야 했다."
+  },
+  {
+    "id": 30,
+    "word": "expert",
+    "meaning": "전문가",
+    "example": "A cybersecurity expert warned students against sharing passwords online.",
+    "translation": "사이버 보안 전문가는 학생들에게 온라인에서 비밀번호를 공유하지 말라고 경고했다.",
+    "wrongTranslation": "사이버 보안 전문가는 학생들에게 온라인에서 비밀번호를 공유하라고 권했다.",
+    "pos": "n./adj.",
+    "derived": "expertise (n.)",
+    "wrongWords": [
+      "export",
+      "exert"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "사이버 보안 전문가는 학생들에게 온라인에서 비밀번호를 자주 변경하라고 경고했다."
+  },
+  {
+    "id": 31,
+    "word": "endless",
+    "meaning": "끝없는",
+    "example": "The endless stream of notifications made it difficult for her to concentrate.",
+    "translation": "끝없이 이어지는 알림 때문에 그녀는 집중하기 어려웠다.",
+    "wrongTranslation": "끝없이 이어지는 알림 덕분에 그녀는 집중하기 쉬웠다.",
+    "pos": "adj.",
+    "derived": "end (n./v.)",
+    "wrongWords": [
+      "endear",
+      "endure"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "끝없이 이어지는 알림 때문에 그녀는 집중하기 싫어졌다."
+  },
+  {
+    "id": 32,
+    "word": "forecast",
+    "meaning": "예보, 예측하다",
+    "example": "According to the latest forecast, temperatures will drop sharply this weekend.",
+    "translation": "최신 예보에 따르면 이번 주말 기온이 급격히 떨어질 것이다.",
+    "wrongTranslation": "최신 예보에 따르면 이번 주말 기온이 급격히 올라갈 것이다.",
+    "pos": "n./v.",
+    "derived": "forecast–forecast–forecast",
+    "wrongWords": [
+      "foremost",
+      "forecourt"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "최신 예보에 따르면 다음 주말 기온이 급격히 떨어질 것이다."
+  },
+  {
+    "id": 33,
+    "word": "disease",
+    "meaning": "질병",
+    "example": "Scientists are studying how the disease spreads between different animals.",
+    "translation": "과학자들은 그 질병이 서로 다른 동물들 사이에서 어떻게 퍼지는지 연구하고 있다.",
+    "wrongTranslation": "과학자들은 그 질병이 서로 다른 동물들 사이에서 왜 사라지는지 연구하고 있다.",
+    "pos": "n.",
+    "derived": "—",
+    "wrongWords": [
+      "decease",
+      "displease"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "과학자들은 그 질병이 서로 다른 지역들 사이에서 어떻게 퍼지는지 연구하고 있다."
+  },
+  {
+    "id": 34,
+    "word": "prevention",
+    "meaning": "예방",
+    "example": "Early detection and prevention are important in protecting public health.",
+    "translation": "조기 발견과 예방은 공중 보건을 보호하는 데 중요하다.",
+    "wrongTranslation": "조기 발견과 예방은 공중 보건을 보호하는 데 중요하지 않다.",
+    "pos": "n.",
+    "derived": "prevent (v.)",
+    "wrongWords": [
+      "preventionist",
+      "presentation"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "늦은 진단과 치료는 공중 보건을 보호하는 데 중요하다."
+  },
+  {
+    "id": 35,
+    "word": "analysis",
+    "meaning": "분석",
+    "example": "A careful analysis of the data revealed a pattern nobody had noticed.",
+    "translation": "자료를 면밀히 분석한 결과 아무도 알아차리지 못했던 패턴이 드러났다.",
+    "wrongTranslation": "자료를 면밀히 분석한 결과 모두가 이미 알아차린 패턴이 드러났다.",
+    "pos": "n.",
+    "derived": "analyze (v.)",
+    "wrongWords": [
+      "analyst",
+      "analyses"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "자료를 면밀히 분석한 결과 일부만 알아차리지 못했던 패턴이 드러났다."
+  },
+  {
+    "id": 36,
+    "word": "for sure",
+    "meaning": "확실히",
+    "example": "We cannot say for sure whether the new policy will solve the problem.",
+    "translation": "새 정책이 문제를 해결할지 확실히 말할 수는 없다.",
+    "wrongTranslation": "새 정책이 문제를 해결할 것이라고 확실히 말할 수 있다.",
+    "pos": "phr.",
+    "derived": "sure (adj.)",
+    "wrongWords": [
+      "for sheer",
+      "for shore"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "새 정책이 문제를 악화시킬지 확실히 말할 수는 없다."
+  },
+  {
+    "id": 37,
+    "word": "transportation",
+    "meaning": "교통, 운송",
+    "example": "Reliable public transportation makes it easier for residents to travel without cars.",
+    "translation": "믿을 만한 대중교통은 주민들이 자동차 없이 이동하기 더 쉽게 해 준다.",
+    "wrongTranslation": "믿을 만한 대중교통은 주민들이 자동차 없이 이동하기 더 어렵게 만든다.",
+    "pos": "n.",
+    "derived": "transport (v./n.)",
+    "wrongWords": [
+      "transformation",
+      "transposition"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "믿을 만한 대중교통은 주민들이 자동차로 이동하기 더 쉽게 해 준다."
+  },
+  {
+    "id": 38,
+    "word": "application",
+    "meaning": "지원서, 응용 프로그램",
+    "example": "The scholarship application must be submitted before the end of the month.",
+    "translation": "장학금 신청서는 이달 말 전에 제출해야 한다.",
+    "wrongTranslation": "장학금 신청서는 이달 말 이후에 제출해야 한다.",
+    "pos": "n.",
+    "derived": "apply (v.)",
+    "wrongWords": [
+      "appliance",
+      "appellation"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "장학금 신청서는 다음 달 초에 제출해야 한다."
+  },
+  {
+    "id": 39,
+    "word": "appreciate",
+    "meaning": "감사하다, 진가를 알아보다",
+    "example": "I began to appreciate the importance of teamwork after joining the science project.",
+    "translation": "과학 프로젝트에 참여한 뒤 나는 팀워크의 중요성을 깨닫기 시작했다.",
+    "wrongTranslation": "과학 프로젝트에 참여한 뒤 나는 팀워크의 중요성을 잊기 시작했다.",
+    "pos": "v.",
+    "derived": "appreciation (n.)",
+    "wrongWords": [
+      "appropriate",
+      "apprehend"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "과학 프로젝트에 참여한 뒤 나는 개인 능력의 중요성을 깨닫기 시작했다."
+  },
+  {
+    "id": 40,
+    "word": "insert",
+    "meaning": "삽입하다",
+    "example": "Insert your student card into the machine to borrow a laptop.",
+    "translation": "노트북을 빌리려면 기계에 학생증을 넣어라.",
+    "wrongTranslation": "노트북을 빌리려면 기계에서 학생증을 꺼내라.",
+    "pos": "v.",
+    "derived": "insertion (n.)",
+    "wrongWords": [
+      "insist",
+      "inset"
+    ],
+    "source": "워크시트 어휘 목록",
+    "exampleSource": "AI 작성 예문",
+    "wrongTranslation2": "노트북을 빌리려면 기계에 교통카드를 넣어라."
+  }
+]
